@@ -1,0 +1,12 @@
+{
+  "name": "twitter-stream-example",
+  "version": "0.1",
+  "description": "Stack de Stream do twitter utilizando Kafka + Spark + Spark Stream",
+  "author": "Arthur",
+  "license": "Apache",
+  "main": "server.js",
+  "dependencies": {
+    "kafka-node": "latest",
+    "twitter": "latest"
+  }
+}
